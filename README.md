@@ -11,7 +11,3 @@ Built using Node.js at its core, the application makes remote SDR operation easy
 A collection of core decoding modules are provided out of the box. Don't see what you want? that's ok! The application has been designed with extensibility in mind, making it easy to add new capabilities through your own custom built modules. Simply create your module, drop it into the application, wire up your routing and you're good to go!
 
 <br>
-
-## Setup Instructions
-
-1. Import the required NodeSDR core modules by running the command: ```./setup.sh```
