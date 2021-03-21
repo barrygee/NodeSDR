@@ -7,6 +7,7 @@
 NodeSDR_MODULES=(
     NodeSDR-Core
     NodeSDR-Data-Store
+    NodeSDR-Authentication
     NodeSDR-SDR-Controller
     NodeSDR-Frontend
 )
